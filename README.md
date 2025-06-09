@@ -7,8 +7,6 @@
 
 > An intelligent AI chatbot that provides personalized career guidance, resume optimization, interview preparation, and job search strategies using OpenAI's GPT-3.5 Turbo.
 
-![Recruity Demo](https://via.placeholder.com/800x400/0f172a/10b981?text=Recruity+AI+Career+Coach)
-
 ## 🚀 Features
 
 - **🤖 AI-Powered Responses** - Leverages OpenAI GPT-3.5 Turbo for intelligent career advice
