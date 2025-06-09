@@ -1,33 +1,44 @@
-# 🤖 Recruity — AI-Powered Recruitment Chatbot
+# 🎯 Recruity - AI-Powered Career Coach Chatbot
 
-Recruity is an intelligent and professional AI chatbot designed to assist users with recruitment-related queries. It provides smart and helpful responses regarding job search, resume building, interview preparation, and career guidance — while strictly avoiding unrelated or off-topic subjects.
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-2.3.3-green.svg)](https://flask.palletsprojects.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-orange.svg)](https://openai.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🔍 Project Overview
+> An intelligent AI chatbot that provides personalized career guidance, resume optimization, interview preparation, and job search strategies using OpenAI's GPT-3.5 Turbo.
 
-**Recruity** acts as a virtual recruitment assistant that ensures focused and career-specific conversations using Google's Generative AI (Gemini). It has a strong system instruction to prevent it from responding to off-topic or irrelevant questions.
+![Recruity Demo](https://via.placeholder.com/800x400/0f172a/10b981?text=Recruity+AI+Career+Coach)
 
-### 🧠 Key Responsibilities of Recruity:
-- Answer questions related to:
-  - ✅ Recruitment and job search
-  - ✅ Resume/CV building tips
-  - ✅ Interview preparation strategies
-  - ✅ Career planning and placements
+## 🚀 Features
 
----
+- **🤖 AI-Powered Responses** - Leverages OpenAI GPT-3.5 Turbo for intelligent career advice
+- **📄 Resume Optimization** - Get detailed feedback on resume structure and content
+- **🎯 Interview Preparation** - Practice with AI-generated questions and strategies
+- **🛣️ Career Roadmaps** - Personalized paths for various tech and non-tech careers
+- **💰 Salary Negotiation** - Expert guidance on compensation discussions
+- **🔒 Secure & Private** - Robust security measures against prompt injection
+- **📱 Responsive Design** - Beautiful UI that works on all devices
+- **⚡ Real-time Chat** - Instant responses with typing indicators
 
-## 🚀 Technologies Used
+## 🛠️ Technology Stack
 
-- 🧠 **Google Generative AI (Gemini API)** — for natural language understanding and content generation  
-- 🐍 **Python** — for backend scripting  
-- 🌐 (Optional) **Streamlit / Flask / Django** — for creating a simple web-based interface  
-- 💾 **SQLite / JSON** — for storing basic user interactions (future scope)
+| Component | Technology | Purpose |
+|-----------|------------|---------|
+| **AI Engine** | OpenAI GPT-3.5 Turbo | Natural language processing and intelligent responses |
+| **Backend** | Python Flask | Web framework and API handling |
+| **Frontend** | HTML5, CSS3, JavaScript | User interface and interactions |
+| **Security** | Custom prompt injection protection | Prevents AI manipulation |
+| **Deployment** | Local/Cloud ready | Flexible hosting options |
 
----
+## 📋 Prerequisites
 
-## 🛠️ How to Run
+- Python 3.9 or higher
+- OpenAI API key
+- Git (for cloning)
 
-1. **Clone the repository:**
+## 🔧 Installation
 
-   ```bash
-   git clone https://github.com/yourusername/Recruity.git
-   cd Recruity
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/recruity-ai-chatbot.git
+cd recruity-ai-chatbot
