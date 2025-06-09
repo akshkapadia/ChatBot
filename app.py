@@ -6,7 +6,7 @@ import re
 app = Flask(__name__)
 
 # Set OpenAI API key directly
-openai.api_key = "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"
+openai.api_key = "YouR_API_KeY"
 
 # Core system instructions that cannot be overridden
 CORE_INSTRUCTIONS = """
